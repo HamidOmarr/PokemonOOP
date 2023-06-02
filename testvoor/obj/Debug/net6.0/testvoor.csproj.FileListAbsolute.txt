@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\testvoor\bin\Debug\net6.0\testvoor.exe
+C:\Users\Dell\Downloads\testvoor\bin\Debug\net6.0\testvoor.deps.json
+C:\Users\Dell\Downloads\testvoor\bin\Debug\net6.0\testvoor.runtimeconfig.json
+C:\Users\Dell\Downloads\testvoor\bin\Debug\net6.0\testvoor.dll
+C:\Users\Dell\Downloads\testvoor\bin\Debug\net6.0\testvoor.pdb
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.AssemblyInfo.cs
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.dll
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\refint\testvoor.dll
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.pdb
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\testvoor.genruntimeconfig.cache
+C:\Users\Dell\Downloads\testvoor\obj\Debug\net6.0\ref\testvoor.dll
