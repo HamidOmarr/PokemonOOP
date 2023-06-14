@@ -1,0 +1,18 @@
+What is a class?
+Een klas is een blueprint dat je wilt maken dat toont hoe iets eruit moet zien en wat voor functies het heeft.
+
+What is an object?
+een object zijn de "objecten" die je gebruikt om een klas te maken. ze allemaal een aleen staande element dat samen 
+iets maken.
+
+What is a constructor?
+een constructor geeft een object zijn "indentiteit", je kan elementen van een object veranderen. 
+dit maakt een object meer customizable
+
+What is a field?
+een field zijn eigenschappen van objects. als we een huis als voorbeeld gebruiken, 
+kunnen de voordeur of ramen een onderdeel zijn van een field.
+
+
+What is a method?
+dit zijn acties/function dat een object kan doen. een method creeerd functions waardoor objecten meer kunnen.
