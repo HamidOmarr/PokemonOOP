@@ -1,0 +1,13 @@
+Compositie: Compositie is een geheel van verschillende dingen, het heeft veel onderdelen die alleenstaan
+maar samen vormen ze een compositie.
+
+Referentietypes: referentietypes, verwijst je van een ding naar de andere. net als een pijl.
+
+Waardetypes: Je kan bij objecten 'waarde' toevoegen. deze waarde kunnen strings, ints etc.
+zijn.  
+
+Null: Null is een andere woord voor leeg. 'null' is een unieke Waardetype wanneer je een object GEEN waarde
+wilt geven.
+
+List: een list in c#. is een functie waarbij je meerdere objecten kan bewaren waarmee daarna een voor een eruit k
+kan halen om iets te doen.
