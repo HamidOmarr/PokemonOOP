@@ -1,0 +1,15 @@
+Inheritance: inheritance is the engelse woord voor "erven" en dat is ook wat het ongeveer betekent
+een klas maakt her gebruik van een andere klas zijn eigenschappen en methodes. hij
+"erft" ze. 
+
+
+Polymorphism: polymorphism betekent dat objecten (van verschillende class) dezelfde methode
+kunnen gebruiken (op verschillende manieren)
+
+parent constructor:
+een parent constructor is een hiërarchie waarbij je een methode kan schrijven dat elk class onder
+de  hiërarchie van gebruik kan maken.
+
+abstract classes and methods:abstracte klassen en methode net als de naam verklapt,
+geven vage/abstracte idee over hoe iets eruit moet zien. andere klassen vullen de rest in.
+
