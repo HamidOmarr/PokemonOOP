@@ -1,0 +1,13 @@
+encapsulation: nederlandse vertaling is encapsulatie. de betekenis is het verbergen van ingewikkeld/belangrijke
+gedeeltes van een klasse. encapsulation is een methode om dat te doen dit zorgt er ook voor dat het
+makkelijker is om te lezen is.
+
+visibility modifiers: visibility modifiers regelt toegankelijkheid van klassen. zoals,
+je hebt public dat is wanneer het compleet open staat voor gebruik.
+je hebt private dat toegang beperkt tot een klasse en je hebt ook nog protected dat
+geen toegang geeft.
+
+getters and setters: getters en setters hebben te maken met de visibility modifier:private
+een getter is een methode dat externe field/klasse waarden laat lezen, een setter laat externe fields
+/klasse waardens wijzigen. 
+

@@ -1,0 +1,8 @@
+Composition: Compositie is een programmeerconcept waarbij een klasse wordt opgebouwd uit andere klassen.
+In plaats van eigenschappen en methoden te erven, worden klassen samen gevoegd als een geheel.
+
+
+static variables en methodes: Statische variabelen en methoden zijn gekoppeld aan een klasse zelf
+Statische variabelen delen dezelfde waarde tussen alle objecten van een klasse
+Statische methoden zijn methoden die kunnen worden opgeroepen zonder een object te maken
+handig voor algemene taken die niet per object verschillen.
